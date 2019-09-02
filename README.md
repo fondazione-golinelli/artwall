@@ -11,5 +11,5 @@ Note: you need to sign in to your google account in order to execute the noteboo
 
 <ul>
     <li>ROCK PAPER SCISSORS <a target="_blank" href="https://colab.research.google.com/github/fondazione-golinelli/artwall/blob/master/rock_paper_scissors/rock_paper_scissors.ipynb">click here</a></li>
-    <li>IMAGE SEGMENTATION <a target="_blank" href="">click here</a></li>
+    <li>IMAGE SEGMENTATION <a target="_blank" href="https://colab.research.google.com/github/fondazione-golinelli/artwall/blob/master/image_segmentation/segmentation.ipynb">click here</a></li>
 </ul>  
